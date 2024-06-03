@@ -70,7 +70,7 @@ Despite this, I had choosen a beginner-friendly framework called **Expo**, which
 Features implementation can be long and sometimes, require a full rewrite, so it is important to decide beforehand, and not during the process. Alternatively we adopt a modular codebase structure to prepare for the future.
 
 showcase of the app: <br>
-the source code can be [found here on Github.](https://github.com/athklmrc/carmobileappherelololol)
+the source code can be [found here on Github.](https://github.com/athklmrc/carbookingapp)
 
 
 <video  height="500" controls>
